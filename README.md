@@ -23,7 +23,7 @@ We are evaluating and comparing price per square footage and rental prices in Sa
 
 -python-dotenv Library 
 
-### Imstalation
+### Instalation
 
 plotly may be installed using pip:
 
