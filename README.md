@@ -37,5 +37,5 @@ $ conda install -c plotly plotly=5.1.0
 -MIT
 
 #### Contributors
-**Matheus Guelfi**
-*matheusguelfi92@gmail.com
+**Matheus Guelfi**   
+*matheusguelfi92@gmail.com*
